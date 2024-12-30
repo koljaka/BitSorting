@@ -13,7 +13,7 @@ namespace BitSorting
 
 		public BitSortAlgorithm ()
 		{
-
+			Some test :) 
 		}
 
 		public int[] Sort(int[] array)
